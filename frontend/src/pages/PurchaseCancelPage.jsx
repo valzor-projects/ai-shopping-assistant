@@ -1,0 +1,1 @@
+export { PurchaseCancelPage as default } from "./PurchaseSuccessPage";
