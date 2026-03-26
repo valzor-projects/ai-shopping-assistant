@@ -18,6 +18,7 @@
     "bcryptjs": "^2.4.3",
     "cloudinary": "^2.4.0",
     "cookie-parser": "^1.4.6",
+    "cors": "^2.8.6",
     "dotenv": "^16.6.1",
     "express": "^4.19.2",
     "groq-sdk": "^0.37.0",
