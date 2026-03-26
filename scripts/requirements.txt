@@ -1,0 +1,4 @@
+pymongo==4.7.2
+pinecone-client==4.1.2
+requests==2.31.0
+python-dotenv==1.0.1
