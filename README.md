@@ -18,9 +18,7 @@
 
 ## What is LUXE?
 
-LUXE is a full-stack premium e-commerce store where customers can browse and buy electronics, clothing, jewelry, accessories, fragrances, and home products — and get instant product recommendations through an **AI chatbot** that understands natural language.
-
-The chatbot doesn't just keyword-match. It classifies intent, corrects typos, understands budgets and categories, performs semantic vector search using NVIDIA embeddings and Pinecone, and streams a natural conversational response back in real time using Groq's LLaMA 3.3 70B model.
+I built a fake luxury store. But the AI inside it is very real. It's called LUXE. Electronics, clothing, jewelry, fragrances, accessories, home products the whole thing. But the part I actually spent time on was the chatbot. Most product search is broken. You type "blue shirt under 50 bucks" and it returns 400 unrelated results. You typo one word and it gives up entirely. This one doesn't do that. It figures out what you actually meant. Fixes your typos. Understands budgets. Knows the difference between "I want something for my mom" and "show me fragrances under $30." Under the hood it's using NVIDIA embeddings and Pinecone to do semantic vector search so it's matching meaning, not just keywords. Then Groq's LLaMA 3.3 70B streams the response back in real time. No loading spinner. No waiting. Just a conversation. The kind of shopping experience that actually feels like talking to someone who knows the store. Built the whole thing full-stack. Still kind of surprised it works this well.
 
 ---
 
