@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="frontend/public/favicon.svg" alt="LUXE Logo" width="100" height="100" />
+
 # LUXE Store
 
 ### An AI-powered premium e-commerce store with a real-time shopping assistant chatbot
